@@ -1,2 +1,2 @@
-# Serch-Domain_node
-Find free 3-letter domains
+Author: Mohammad Mehdi Modi
+Find free 3-character domains with node-js
